@@ -1,4 +1,3 @@
-*.txt
-*.docx
-/4_led/*
+*.ko
+*.t
 /5_led/git_led/
