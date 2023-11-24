@@ -1,0 +1,16 @@
+From beffcb0b4ded52d452813c170262a2cf8cde646d Mon Sep 17 00:00:00 2001
+From: lien <511537926@qq.com>
+Date: Thu, 16 Nov 2023 20:48:33 +0800
+Subject: [PATCH 2/2] add wrename
+
+---
+ w.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 w.txt
+
+diff --git a/w.txt b/w.txt
+deleted file mode 100644
+index e69de29..0000000
+-- 
+2.42.0.windows.2
+
