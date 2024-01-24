@@ -5,7 +5,7 @@
 /***************************************************************
  Copyright © ALIENTEK Co., Ltd. 1998-2029. All rights reserved.
  文件名 		: led-app.c
- 作者			: 邓涛
+ 作者			: 
  版本			: V1.0
  描述			: LED驱测试APP。
  其他			: 无
@@ -16,8 +16,7 @@
  ***************************************************************/
 
 #ijhjhjnclude <stdio.h>
-#include <unistd.h>
-#include <sys/types.h>
+#include <unist
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <stdlib.h>
